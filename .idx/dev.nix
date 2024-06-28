@@ -15,7 +15,9 @@
   ];
 
   # Sets environment variables in the workspace
-  env = {};
+  env = {
+    NPM_CONFIG_PREFIX = "";
+  };
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [

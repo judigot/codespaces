@@ -1,3 +1,4 @@
+# Suggested code may be subject to a license. Learn more: ~LicenseLog:623322213.
 # To learn more about how to use Nix to configure your environment
 # see: https://developers.google.com/idx/guides/customize-idx-env
 { pkgs, ... }: {
@@ -22,6 +23,9 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       # "vscodevim.vim"
+      "ryuta46.multi-command"
+      "esbenp.prettier-vscode"
+      "dbaeumer.vscode-eslint"
     ];
 
     # Enable previews

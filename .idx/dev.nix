@@ -26,6 +26,7 @@
     extensions = [
       # "vscodevim.vim"
       "ryuta46.multi-command"
+      "formulahendry.code-runner"
       "esbenp.prettier-vscode"
       "dbaeumer.vscode-eslint"
     ];

@@ -11,6 +11,7 @@
     pkgs.deno
     pkgs.terraform
     pkgs.awscli2
+    pkgs.ssm-session-manager-plugin
     # pkgs.go
     # pkgs.python311
     # pkgs.python311Packages.pip

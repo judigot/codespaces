@@ -64,6 +64,7 @@
       "vscode-icons-team.vscode-icons"
       "styled-components.vscode-styled-components"
       "vue.volar"
+      
     ];
 
     # Enable previews

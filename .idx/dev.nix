@@ -12,6 +12,8 @@
     pkgs.terraform
     pkgs.awscli2
     pkgs.ssm-session-manager-plugin
+    pkgs.php83
+    pkgs.php83Packages.composer
     # pkgs.go
     # pkgs.python311
     # pkgs.python311Packages.pip
